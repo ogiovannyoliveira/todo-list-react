@@ -86,3 +86,16 @@ pnpm install
 
 # Start the development server
 pnpm run dev
+```
+
+## 🧑‍💻 Author
+
+### Giovanny Oliveira <img width="20" height="20" alt="ID Giovanny Oliveira" src="https://github.com/user-attachments/assets/2e056595-59a8-49c9-aa8b-a3b54562fe3e" />
+
+Software Engineer
+
+<br>
+
+📬 [LinkedIn](https://www.linkedin.com/in/giovannylucas)
+
+💻 [GitHub](https://github.com/ogiovannyoliveira/todo-list-react/)

@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": {
+    "name": "Giovanny Oliveira",
+    "email": "giovannylucax@gmail.com",
+    "url": "https://github.com/ogiovannyoliveira/todo-list-react"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
