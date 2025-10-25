@@ -90,7 +90,7 @@ pnpm run dev
 
 ## 🧑‍💻 Author
 
-### Giovanny Oliveira <img width="20" height="20" alt="ID Giovanny Oliveira" src="https://github.com/user-attachments/assets/2e056595-59a8-49c9-aa8b-a3b54562fe3e" />
+### <img width="30" height="30" alt="ID Giovanny Oliveira" src="https://github.com/user-attachments/assets/2e056595-59a8-49c9-aa8b-a3b54562fe3e" /> Giovanny Oliveira
 
 Software Engineer
 
